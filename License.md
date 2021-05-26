@@ -1,4 +1,4 @@
-Copyright (c) 2019 R J Dowding Ltd (the “Owner”)
+Copyright (c) 2019-2021 R J Dowding Ltd (the “Owner”)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this .map file (the "Software"), to copy as a complete file without modification and load and access the Software for use in their personal capacity only in respect of their access to and use of Rust game servers hosted by or on behalf of the Owner but not otherwise.  No permission is granted by this license to modify, merge (other than temporarily in the course of its use within a Rust game server hosted by or on behalf of the Owner), publish, distribute, sublicense or sell copies of the Software, or to permit persons to whom the Software is furnished to do so, or to use or copy the Software otherwise than as set out above.  ALL RIGHTS RESERVED.
 
